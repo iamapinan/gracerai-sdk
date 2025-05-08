@@ -1,6 +1,6 @@
 {
   "name": "gracerai-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SDK สำหรับเรียกใช้ API ของ GracerAI",
   "main": "GracerAI.js",
   "scripts": {
