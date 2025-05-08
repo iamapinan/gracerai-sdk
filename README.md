@@ -1,6 +1,6 @@
-# AIBox SDK
+# GracerAI SDK
 
-SDK สำหรับเรียกใช้ API ของ AIBox ในรูปแบบ JavaScript
+SDK สำหรับเรียกใช้ API ของ GracerAI ในรูปแบบ JavaScript
 
 ## การติดตั้ง
 
