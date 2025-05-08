@@ -1,0 +1,29 @@
+{
+  "name": "gracerai-sdk",
+  "version": "1.0.0",
+  "description": "SDK สำหรับเรียกใช้ API ของ GracerAI",
+  "main": "GracerAI.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "gracerai",
+    "sdk",
+    "api",
+    "ai",
+    "file-manager"
+  ],
+  "author": "Gracer Corp",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamapinan/gracerai-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iamapinan/gracerai-sdk/issues"
+  },
+  "homepage": "https://github.com/iamapinan/gracerai-sdk#readme",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+} 
