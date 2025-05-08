@@ -7,7 +7,7 @@ SDK สำหรับเรียกใช้ API ของ AIBox ในรู�
 ### 1. ติดตั้งผ่าน CDN
 
 ```html
-<script src="https://gracer.co.th/sdk/GracerAI.js"></script>
+<script src="https://raw.githubusercontent.com/iamapinan/gracerai-sdk/refs/heads/main/GracerAI.js"></script>
 ```
 
 ### 2. ติดตั้งผ่าน NPM
