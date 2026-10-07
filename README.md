@@ -121,3 +121,5 @@ try {
 - ต้องมีการยืนยันตัวตนก่อนใช้งาน API
 - ควรจัดการ error handling อย่างเหมาะสม
 - ควรคำนึงถึง rate limiting ในการใช้งาน 
+
+<!-- Security scan triggered at 2026-10-07 14:40:18 -->
